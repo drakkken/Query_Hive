@@ -23,7 +23,7 @@ const Navbar = async () => {
         />
 
         <p className="h2-bold font-space-grotesk text-dark-100 dark:text-light-900 max-sm:hidden">
-          Query<span className="text-primary-500">Hive</span>
+          Query<span className="text-blue-500">Hive</span>
         </p>
       </Link>
 

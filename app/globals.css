@@ -266,7 +266,10 @@
 @utility primary-gradient {
   background: linear-gradient(129deg, #ff7000 0%, #e2995f 100%);
 }
-
+/* BLue theme */
+/* @utility primary-gradient {
+ background: linear-gradient(129deg, #0070ff 0%, #5f99e2 100%);
+} */
 @utility dark-gradient {
   background: linear-gradient(
     232deg,
