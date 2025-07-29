@@ -4,7 +4,11 @@ export const HomePageFilters = [
   { name: "Unanswered", value: "unanswered" },
   { name: "Recommended", value: "recommended" },
 ];
-
+export const AnswerFilters = [
+  { name: "Newest", value: "latest" },
+  { name: "Oldest", value: "oldest" },
+  { name: "Popular", value: "popular" },
+];
 export const CollectionFilters = [
   { name: "Oldest", value: "oldest" },
   { name: "Most Voted", value: "mostvoted" },
